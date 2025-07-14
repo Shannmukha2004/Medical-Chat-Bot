@@ -1,0 +1,2 @@
+Ctrl + Spacebar = Suggestions in VS Code
+Ctrl + / = Marked as a Comment which line we want
