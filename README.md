@@ -27,23 +27,6 @@ An intelligent medical chatbot built using Python, Machine Learning, and Natural
 
 ---
 
-Medical-Chat-Bot/
-│
-├── chatbot/ # NLP model, intents, training scripts
-│ ├── intents.json
-│ ├── train_model.py
-│ └── chat.py
-│
-├── web/ # Web application code
-│ ├── templates/
-│ ├── static/
-│ ├── views.py
-│ └── app.py or views/
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-
 Examples be Like:
 -----------------
 User:
